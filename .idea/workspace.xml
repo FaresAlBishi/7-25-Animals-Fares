@@ -164,6 +164,9 @@
       </pane>
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Kotlin" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
